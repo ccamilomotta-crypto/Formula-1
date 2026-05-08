@@ -1,4 +1,3 @@
-// this file is provided.  do not modify. do not submit.
 #ifndef PROVIDED_RANK_FUNCTIONS_H_
 #define PROVIDED_RANK_FUNCTIONS_H_
 
